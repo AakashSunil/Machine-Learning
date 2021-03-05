@@ -1,6 +1,7 @@
 Machine Learning Assignment - 2b
 
-This assignment was to use the Bag of Words and Bernoulli model to classify text as 'ham' or 'spam' using Logistic Regression Algorithm with parameter of learning rate, iterations and the l2 regularizaton value input through the command line by user.
+This assignment was to use the Bag of Words and Bernoulli model to classify text as 'ham' or 'spam' using Logistic Regression Algorithm.
+Parameters - learning rate, iterations and the l2 regularizaton value input through the command line by user.
 
 The Folder structure for the code to work accepting command line input is as follows.
 Solution Codes
