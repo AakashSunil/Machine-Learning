@@ -17,14 +17,14 @@ Types of tree heuristics implemented
 6. With Variance as the Impurity and Depth-Based-Pruning
 7. Random Forest Classifier
 
-Solution Program -> Homework - 1 - Complete.py
+Solution Program -> Decision_Trees.py
 
 Datasets Folder -> all_data
 
-To execute the program - Homework - 1 - Complete.py
+To execute the program - Decision_Trees.py
 
 The program needs to be where the datasets are stored.
-on the terminal type -> python Homework - 1 - Complete.py
+on the terminal type -> python Decision_Trees.py
 
 The program is Menu Based - Choice for the type of decision tree and choice of the dataset combination.
 enter the option number as seen on the menu
