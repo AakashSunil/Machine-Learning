@@ -1,6 +1,6 @@
 Machine Learning Assignment - 3a
 
-This assignment is to implement K_Means Clustering.
+This assignment is to implement K_Means Clustering Algorithm.
 
 K_Means is an Unsupervised Learning Algorithm that can be used to classify data.
 Here, the application is for Image Compression.
