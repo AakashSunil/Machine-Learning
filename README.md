@@ -1,6 +1,6 @@
 Machine Learning Assignment - 2
 
-This assignment was to use the bag of words and bernoulli model to classify text as 'ham' or 'spam' using Multinomial Naive Bayes and Discrete Naive Bayes Algorithms.
+This assignment was to use the Bag of Words and Bernoulli model to classify text as 'ham' or 'spam' using Multinomial Naive Bayes and Discrete Naive Bayes Algorithms.
 
 This contains the following
 1.	Multinomial Naïve Bayes Solution
@@ -26,5 +26,5 @@ Datasets
 Command Line to execute the Naïve Bayes Solutions is
 
 Python <python_filename> <path_to_the_Parent_Dataset_Folder>
-Ex: python '.\Multinomial Naive Bayes.py' '..\Datasets\Dataset 1'
-Ex: python '.\Bernoulli Naive Bayes.py' '..\Datasets\Dataset 1'
+Ex: python '.\Multinomial_Naive_Bayes.py' '..\Datasets\Dataset 1'
+Ex: python '.\Discrete_Naive_Bayes.py' '..\Datasets\Dataset 1'
