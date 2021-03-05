@@ -22,4 +22,4 @@ Datasets
 
 Command Line to Execute Logistic Regression is
 Python <python_filename> <path_to_the_Parent_Dataset_Folder> <learning_rate> <iterations> <l2_regularization_value>
-Ex: python '.\Logistic Regression.py' '..\Datasets\Dataset 1' 0.5 1000 0.6
+Ex: python '.\Logistic_Regression.py' '..\Datasets\Dataset 1' 0.5 1000 0.6
