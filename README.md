@@ -1,6 +1,6 @@
 Machine Learning Assignment - 3b
 
-This assignment is to implement three classifiers code using scikit-sklearn.
+This assignment is to implement three classifiers in the scikit-sklearn package.
 
 1. SVM Classifier
 2. MLP Classifier
