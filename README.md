@@ -1,10 +1,6 @@
-Machine Learning Assignment - 2
+Machine Learning Assignment - 2b
 
-This assignment was to use the Bag of Words and Bernoulli model to classify text as 'ham' or 'spam' using Multinomial Naive Bayes and Discrete Naive Bayes Algorithms.
-
-This contains the following
-1.	Multinomial Naïve Bayes Solution
-2.	Discrete Naïve Bayes Solution
+This assignment was to use the Bag of Words and Bernoulli model to classify text as 'ham' or 'spam' using Logistic Regression Algorithm with parameter of learning rate, iterations and the l2 regularizaton value input through the command line by user.
 
 The Folder structure for the code to work accepting command line input is as follows.
 Solution Codes
@@ -23,8 +19,6 @@ Datasets
 |_______________spam
 |__________________Text files
 
-Command Line to execute the Naïve Bayes Solutions is
-
-Python <python_filename> <path_to_the_Parent_Dataset_Folder>
-Ex: python '.\Multinomial_Naive_Bayes.py' '..\Datasets\Dataset 1'
-Ex: python '.\Discrete_Naive_Bayes.py' '..\Datasets\Dataset 1'
+Command Line to Execute Logistic Regression is
+Python <python_filename> <path_to_the_Parent_Dataset_Folder> <learning_rate> <iterations> <l2_regularization_value>
+Ex: python '.\Logistic Regression.py' '..\Datasets\Dataset 1' 0.5 1000 0.6
