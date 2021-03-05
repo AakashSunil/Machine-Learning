@@ -1,25 +1,14 @@
-Machine Learning Assignment - 2b
+Machine Learning Assignment - 3a
 
-This assignment was to use the Bag of Words and Bernoulli model to classify text as 'ham' or 'spam' using Logistic Regression Algorithm.
-Parameters - learning rate, iterations and the l2 regularizaton value input through the command line by user.
+This assignment is to implement K_Means Clustering.
 
-The Folder structure for the code to work accepting command line input is as follows.
-Solution Codes
-Datasets
-|___Dataset 1
-|________dataset_name_train
-|____________train
-|_______________ham
-|__________________Text files
-|_______________spam
-|__________________Text files
-|________dataset_name_test
-|____________test
-|_______________ham
-|__________________Text files
-|_______________spam
-|__________________Text files
+K_Means is an Unsupervised Learning Algorithm that can be used to classify data.
+Here, the application is for Image Compression.
 
-Command Line to Execute Logistic Regression is
-Python <python_filename> <path_to_the_Parent_Dataset_Folder> <learning_rate> <iterations> <l2_regularization_value>
-Ex: python '.\Logistic_Regression.py' '..\Datasets\Dataset 1' 0.5 1000 0.6
+This code compresses the image and K value entered by user through the command line.
+
+To execute the code:
+
+python k_means.py <Input Image/Path> <K> <Output Image/Path>
+
+Ex: python k_means.py Koala.jpg 5 Output.jpg
